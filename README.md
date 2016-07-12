@@ -1,10 +1,10 @@
 # Angular Challenge
 
-ALL RIGHT! Set up a *NEW* project! From the ground up.
-Bring in Angular, that's all we will need for our project today.
+ALL RIGHT! Set up a *NEW* project from the ground up!
+Bring in Angular; that's all we will need for our project today.
 
 ## Business Need:
-We need a way to pick Olympic athletes for our new marketing campain. Make an application that has a `Generate` button that displays one athlete from 5 different sports of your choice. The chosen athletes should have their names and origins (locations) displayed. The athletes should be chosen at random, and should include all athletes competing in a given sport. Information on the athletes can be found [here](http://www.teamusa.org/road-to-rio-2016/team-usa/athletes).
+We need a way to pick Olympic athletes for our new marketing campaign. Make an application that has a `Generate` button that displays one athlete from 5 different sports of your choice. The chosen athletes should have their names and origins (locations) displayed. The athletes should be chosen at random, and should include all athletes competing in a given sport. Information on the athletes can be found [here](http://www.teamusa.org/road-to-rio-2016/team-usa/athletes).
 
 
 ## Technical Requirements
@@ -16,7 +16,7 @@ Our application will request 5 payloads from five different Express routes (one 
     }
 
 ## Hard Mode:
-Style your application with CSS, make it look presentable (think 'Merica).
+Style your application with CSS; make it look presentable (think 'Murica).
 
 ## Pro Mode:
-Add a sixth end point to choose which sport we should choose for our campain and style the winner on the view.
+Add a sixth end point to choose which sport we should choose for our campaign and style the winner on the view.
